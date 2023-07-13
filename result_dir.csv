@@ -1,0 +1,6 @@
+name parent_dir type size
+one_dir test_dir directory 3220
+user_data.json test_dir file 81
+my_file_alsu.txt test_dir\one_dir file 2914
+result.txt test_dir\one_dir file 225
+user_data.json test_dir\one_dir file 81

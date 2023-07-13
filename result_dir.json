@@ -1,0 +1,32 @@
+[
+  {
+    "name": "one_dir",
+    "parent_dir": "test_dir",
+    "type": "directory",
+    "size": 3220
+  },
+  {
+    "name": "user_data.json",
+    "parent_dir": "test_dir",
+    "type": "file",
+    "size": 81
+  },
+  {
+    "name": "my_file_alsu.txt",
+    "parent_dir": "test_dir\\one_dir",
+    "type": "file",
+    "size": 2914
+  },
+  {
+    "name": "result.txt",
+    "parent_dir": "test_dir\\one_dir",
+    "type": "file",
+    "size": 225
+  },
+  {
+    "name": "user_data.json",
+    "parent_dir": "test_dir\\one_dir",
+    "type": "file",
+    "size": 81
+  }
+]
